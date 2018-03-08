@@ -12,6 +12,7 @@ Ouvrez Ygg.php avec votre éditeur préféré et modifiez les lignes 93 et 94 po
     
 ## Conf
 Pour avoir plus de 25 reponses, modifier ligne 517 le nombre
+    
     $this->loopForTorrent('/torrents/' . $category . '?order=desc&sort=publish_date&per_page=50');
     
 
